@@ -1,5 +1,5 @@
 {
-    "name": "fontis/customergroupaccess-mage2",
+    "name": "fuzzybo/customergroupaccess-mage2",
     "description": "Provides a convenience class for implementing customer group based access in your Magento 2 extension.",
     "type": "magento2-library",
     "license": "OSL-3.0",
